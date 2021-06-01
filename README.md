@@ -7,4 +7,5 @@
 - __Technologies / Tools Used :__ HTML, CSS, JavaScript ,Notepad++ .
 
 - __Description :__ We upgraded our college website to looks good . 
-		
+
+- __Team Members :__ https://github.com/subirghosh77 , https://github.com/sneha2245/ 
