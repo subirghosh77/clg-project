@@ -1,6 +1,6 @@
 # College Website
 
- https://subirghoshblgt.github.io/clg-project/ 
+ https://subirghosh77.github.io/clg-project/
  
 •	Duration : 1.5 week .
 
