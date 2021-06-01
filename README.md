@@ -5,5 +5,5 @@
 
 •	Description : 
 
-		i.	We upgraded our college website to looks good . 
+	i.	We upgraded our college website to looks good . 
 
