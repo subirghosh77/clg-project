@@ -1,0 +1,22 @@
+#xys{
+	a{
+		position:absolute;
+		left:-80px;
+		transition:0.3s;
+		padding:15px;
+		width:100px;
+		text-decoration:none;
+		font-size:20px;
+		color:white;
+		border-radius:0 5px 5px 0;
+	}
+}
+#xys{
+	a:hover{
+		left:0px;
+	}	
+}
+#about{
+	top:20px;
+	background-color:grren;
+}
