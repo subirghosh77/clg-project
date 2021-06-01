@@ -1,4 +1,7 @@
-# clg-project
+# College Website
+
+ https://subirghoshblgt.github.io/clg-project/ 
+ 
 •	Duration : 1.5 week .
 
 •	Technologies / Tools Used : HTML, CSS, JavaScript ,Notepad++ .
