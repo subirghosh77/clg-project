@@ -1,11 +1,25 @@
-# College Website
+# College Website <img src="https://img.shields.io/badge/project-completed-brightgreen">
+
+<img src="https://img.shields.io/badge/HTML-v5-brightgreen"> <img src="https://img.shields.io/badge/css-brightgreen"> <img src="https://img.shields.io/badge/JavaScript-brightgreen"> <img src="https://img.shields.io/badge/Notepad++-brightgreen"> 
 
  https://subirghosh77.github.io/clg-project/
  
-- __Duration :__ 1.5 week .
+Duration
+--------
 
-- __Technologies / Tools Used :__ HTML, CSS, JavaScript ,Notepad++ .
+1.5 week .
 
-- __Description :__ We upgraded our college website to looks good . 
+Technologies / Tools Used
+-------------------------
 
-- __Team Members :__ https://github.com/subirghosh77 , https://github.com/sneha2245/ 
+HTML, CSS, JavaScript ,Notepad++ .
+
+Description
+-----------
+
+    We upgraded our college website to looks good . 
+
+Team Members
+------------
+
+https://github.com/subirghosh77 , https://github.com/sneha2245/ 
