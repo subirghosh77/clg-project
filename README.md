@@ -17,7 +17,7 @@ HTML, CSS, JavaScript ,Notepad++ .
 Description
 -----------
 
-    We upgraded our college website to looks good . 
+    We upgraded our college website . 
 
 Team Members
 ------------
