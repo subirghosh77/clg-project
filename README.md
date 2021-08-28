@@ -1,5 +1,7 @@
 # College Website <img src="https://img.shields.io/badge/project-completed-brightgreen"> 
 
+[![Github All Releases](https://img.shields.io/github/downloads/subirghosh77/clg-project/total.svg)]()
+
 <img src="https://img.shields.io/badge/HTML-v5-brightgreen"> <img src="https://img.shields.io/badge/css-brightgreen"> <img src="https://img.shields.io/badge/JavaScript-brightgreen"> <img src="https://img.shields.io/badge/Notepad++-brightgreen"> 
 
  https://subirghosh77.github.io/clg-project/
